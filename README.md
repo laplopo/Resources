@@ -12,3 +12,5 @@ The purpose of this repository is to to back up my resume with some proof and he
 - solving problems never met before
 - english language
  
+ 
+**[In this notebook](https://github.com/laplopo/Resources/blob/master/Center.ipynb) I use a Kaggle dataset with NBA statistics for some data analysis. I compare the best centers of 1996 and 2017 and try to find the differences of the two era of NBA centers. (90%done)**
